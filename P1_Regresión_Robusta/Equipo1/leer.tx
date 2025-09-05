@@ -1,0 +1,19 @@
+Práctica  01 Regresión Robusta
+
+Profesor: Daniel Jiménez Alcantar
+
+1.- Construya un dataset a partir de los tickets de ventas de productos, asegurándose de que los datos estén correctamente preprocesados y estructurados para poder integrarlos en un modelo de aprendizaje automático de regresión robusta. Desarrolle un reporte técnico que documente el trabajo realizado, incluyendo de manera detallada los siguientes apartado:
+
+Carátula
+Introducción
+Problemática
+Metodología.
+Modelo estadístico
+Modelo computacional
+Propuesta de solución para el uso de tipos de regresión robusta para evaluar su desempeño:.
+Regresión lineal ordinaria (OLS).
+Regresión Ridge y Lasso.
+Regresión Huber.
+Regresión RANSAC (RANdom SAmple Consensus).
+Visualización de la solución.
+Conclusiones por integrante.
